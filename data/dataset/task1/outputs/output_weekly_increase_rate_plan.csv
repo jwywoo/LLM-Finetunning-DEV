@@ -1,0 +1,20001 @@
+id,weekly_increase_rate_plan
+example_0000,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0001,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0002,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0003,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0004,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0005,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0006,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0007,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0008,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0009,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0010,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0011,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0012,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0013,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0014,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0015,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0016,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0017,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0018,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0019,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0020,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0021,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0022,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0023,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0024,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0025,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0026,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0027,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0028,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0029,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0030,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0031,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0032,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0033,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0034,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0035,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0036,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0037,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0038,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0039,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0040,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0041,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0042,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0043,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0044,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0045,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0046,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0047,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0048,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0049,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0050,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0051,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0052,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0053,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0054,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0055,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0056,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0057,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0058,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0059,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0060,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0061,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0062,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0063,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0064,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0065,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0066,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0067,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0068,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0069,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0070,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0071,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0072,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0073,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0074,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0075,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0076,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0077,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0078,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0079,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0080,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0081,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0082,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0083,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0084,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0085,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0086,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0087,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0088,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0089,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0090,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0091,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0092,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0093,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0094,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0095,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0096,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0097,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0098,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0099,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0100,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0101,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0102,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0103,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0104,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0105,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0106,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0107,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0108,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0109,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0110,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0111,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0112,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0113,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0114,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0115,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0116,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0117,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0118,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0119,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0120,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0121,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0122,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0123,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0124,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0125,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0126,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0127,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0128,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0129,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0130,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0131,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0132,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0133,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0134,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0135,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0136,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0137,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0138,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0139,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0140,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0141,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0142,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0143,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0144,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0145,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0146,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0147,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0148,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0149,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0150,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0151,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0152,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0153,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0154,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0155,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0156,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0157,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0158,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0159,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0160,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0161,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0162,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0163,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0164,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0165,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0166,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0167,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0168,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0169,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0170,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0171,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0172,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0173,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0174,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0175,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0176,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0177,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0178,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0179,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0180,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0181,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0182,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0183,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0184,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0185,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0186,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0187,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0188,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0189,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0190,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0191,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0192,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0193,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0194,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0195,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0196,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0197,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0198,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0199,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0200,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0201,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0202,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0203,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0204,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0205,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0206,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0207,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0208,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0209,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0210,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0211,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0212,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0213,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0214,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0215,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0216,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0217,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0218,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0219,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0220,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0221,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0222,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0223,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0224,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0225,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0226,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0227,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0228,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0229,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0230,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0231,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0232,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0233,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0234,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0235,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0236,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0237,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0238,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0239,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0240,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0241,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0242,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0243,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0244,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0245,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0246,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0247,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0248,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0249,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0250,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0251,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0252,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0253,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0254,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0255,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0256,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0257,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0258,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0259,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0260,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0261,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0262,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0263,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0264,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0265,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0266,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0267,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0268,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0269,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0270,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0271,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0272,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0273,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0274,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0275,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0276,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0277,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0278,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0279,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0280,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0281,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0282,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0283,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0284,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0285,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0286,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0287,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0288,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0289,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0290,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0291,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0292,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0293,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0294,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0295,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0296,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0297,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0298,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0299,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0300,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0301,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0302,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0303,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0304,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0305,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0306,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0307,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0308,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0309,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0310,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0311,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0312,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0313,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0314,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0315,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0316,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0317,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0318,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0319,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0320,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0321,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0322,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0323,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0324,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0325,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0326,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0327,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0328,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0329,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0330,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0331,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0332,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0333,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0334,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0335,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0336,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0337,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0338,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0339,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0340,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0341,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0342,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0343,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0344,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0345,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0346,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0347,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0348,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0349,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0350,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0351,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0352,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0353,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0354,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0355,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0356,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0357,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0358,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0359,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0360,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0361,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0362,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0363,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0364,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0365,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0366,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0367,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0368,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0369,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0370,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0371,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0372,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0373,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0374,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0375,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0376,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0377,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0378,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0379,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0380,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0381,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0382,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0383,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0384,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0385,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0386,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0387,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0388,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0389,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0390,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0391,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0392,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0393,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0394,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0395,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0396,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0397,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0398,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0399,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0400,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0401,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0402,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0403,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0404,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0405,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0406,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0407,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0408,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0409,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0410,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0411,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0412,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0413,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0414,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0415,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0416,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0417,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0418,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0419,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0420,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0421,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0422,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0423,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0424,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0425,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0426,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0427,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0428,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0429,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0430,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0431,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0432,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0433,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0434,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0435,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0436,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0437,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0438,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0439,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0440,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0441,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0442,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0443,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0444,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0445,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0446,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0447,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0448,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0449,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0450,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0451,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0452,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0453,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0454,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0455,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0456,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0457,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0458,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0459,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0460,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0461,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0462,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0463,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0464,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0465,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0466,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0467,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0468,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0469,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0470,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0471,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0472,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0473,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0474,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0475,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0476,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0477,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0478,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0479,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0480,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0481,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0482,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0483,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0484,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0485,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0486,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0487,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0488,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0489,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0490,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0491,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0492,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0493,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0494,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0495,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0496,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0497,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0498,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0499,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0500,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0501,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0502,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0503,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0504,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0505,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0506,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0507,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0508,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0509,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0510,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0511,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0512,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0513,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0514,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0515,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0516,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0517,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0518,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0519,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0520,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0521,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0522,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0523,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0524,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0525,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0526,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0527,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0528,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0529,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0530,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0531,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0532,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0533,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0534,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0535,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0536,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0537,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0538,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0539,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0540,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0541,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0542,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0543,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0544,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0545,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0546,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0547,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0548,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0549,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0550,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0551,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0552,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0553,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0554,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0555,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0556,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0557,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0558,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0559,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0560,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0561,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0562,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0563,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0564,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0565,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0566,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0567,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0568,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0569,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0570,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0571,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0572,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0573,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0574,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0575,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0576,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0577,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0578,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0579,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0580,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0581,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0582,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0583,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0584,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0585,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0586,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0587,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0588,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0589,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0590,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0591,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0592,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0593,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0594,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0595,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0596,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0597,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0598,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0599,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0600,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0601,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0602,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0603,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0604,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0605,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0606,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0607,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0608,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0609,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0610,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0611,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0612,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0613,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0614,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0615,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0616,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0617,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0618,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0619,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0620,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0621,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0622,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0623,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0624,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0625,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0626,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0627,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0628,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0629,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0630,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0631,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0632,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0633,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0634,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0635,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0636,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0637,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0638,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0639,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0640,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0641,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0642,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0643,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0644,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0645,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0646,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0647,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0648,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0649,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0650,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0651,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0652,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0653,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0654,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0655,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0656,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0657,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0658,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0659,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0660,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0661,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0662,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0663,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0664,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0665,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0666,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0667,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0668,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0669,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0670,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0671,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0672,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0673,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0674,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0675,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0676,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0677,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0678,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0679,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0680,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0681,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0682,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0683,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0684,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0685,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0686,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0687,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0688,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0689,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0690,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0691,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0692,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0693,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0694,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0695,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0696,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0697,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0698,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0699,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0700,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0701,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0702,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0703,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0704,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0705,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0706,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0707,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0708,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0709,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0710,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0711,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0712,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0713,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0714,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0715,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0716,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0717,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0718,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0719,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0720,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0721,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0722,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0723,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0724,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0725,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0726,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0727,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0728,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0729,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0730,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0731,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0732,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0733,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0734,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0735,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0736,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0737,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0738,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0739,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0740,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0741,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0742,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0743,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0744,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0745,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0746,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0747,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0748,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0749,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0750,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0751,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0752,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0753,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0754,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0755,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0756,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0757,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0758,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0759,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0760,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0761,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0762,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0763,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0764,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0765,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0766,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0767,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0768,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0769,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0770,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0771,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0772,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0773,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0774,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0775,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0776,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0777,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0778,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0779,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0780,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0781,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0782,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0783,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0784,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0785,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0786,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0787,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0788,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0789,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0790,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0791,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0792,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0793,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0794,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0795,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0796,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0797,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0798,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0799,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0800,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0801,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0802,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0803,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0804,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0805,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0806,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0807,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0808,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0809,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0810,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0811,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0812,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0813,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0814,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0815,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0816,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0817,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0818,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0819,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0820,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0821,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0822,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0823,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0824,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0825,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0826,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0827,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0828,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0829,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0830,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0831,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0832,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0833,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0834,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0835,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0836,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0837,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0838,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0839,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0840,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0841,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0842,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0843,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0844,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0845,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0846,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0847,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0848,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0849,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0850,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0851,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0852,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0853,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0854,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0855,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0856,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0857,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0858,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0859,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0860,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0861,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0862,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0863,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0864,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0865,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0866,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0867,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0868,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0869,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0870,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0871,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0872,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0873,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0874,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0875,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0876,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0877,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0878,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0879,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0880,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0881,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0882,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0883,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0884,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0885,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0886,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0887,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0888,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0889,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0890,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0891,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0892,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0893,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0894,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0895,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0896,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0897,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0898,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0899,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0900,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0901,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0902,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0903,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0904,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0905,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0906,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0907,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0908,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0909,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0910,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0911,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0912,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0913,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0914,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0915,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0916,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0917,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0918,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0919,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0920,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0921,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0922,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0923,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0924,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0925,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0926,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0927,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0928,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0929,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0930,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0931,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0932,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0933,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0934,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0935,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0936,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0937,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0938,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0939,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0940,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0941,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0942,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0943,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0944,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0945,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0946,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0947,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0948,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0949,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0950,"Week1
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0951,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0952,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0953,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0954,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0955,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0956,"Week1
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 70%x5
+SET2 80%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0957,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0958,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0959,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0960,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0961,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 45%x3
+SET2 55%x3
+SET3 65%x3+
+
+Week3
+SET1 50%x5
+SET2 60%x3
+SET3 70%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0962,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0963,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0964,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0965,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 55%x3
+SET2 65%x3
+SET3 75%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0966,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0967,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 70%x5
+SET2 75%x3
+SET3 80%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0968,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 60%x5
+SET2 65%x3
+SET3 70%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0969,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0970,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0971,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0972,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0973,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 75%x3
+SET2 80%x3
+SET3 85%x3+
+
+Week3
+SET1 85%x5
+SET2 90%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0974,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0975,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0976,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0977,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0978,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 65%x3
+SET2 70%x3
+SET3 75%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0979,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0980,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0981,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0982,"Week1
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 80%x5
+SET2 85%x3
+SET3 90%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0983,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0984,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0985,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 30%x5
+SET2 35%x5
+SET3 40%x5
+"
+example_0986,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0987,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0988,"Week1
+SET1 65%x5
+SET2 75%x5
+SET3 85%x5+
+
+Week2
+SET1 75%x3
+SET2 85%x3
+SET3 95%x3+
+
+Week3
+SET1 85%x5
+SET2 95%x3
+SET3 105%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0989,"Week1
+SET1 65%x5
+SET2 70%x5
+SET3 75%x5+
+
+Week2
+SET1 70%x3
+SET2 75%x3
+SET3 80%x3+
+
+Week3
+SET1 75%x5
+SET2 80%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0990,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 65%x3
+SET2 75%x3
+SET3 85%x3+
+
+Week3
+SET1 75%x5
+SET2 85%x3
+SET3 95%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
+example_0991,"Week1
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 60%x5
+SET2 70%x3
+SET3 80%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0992,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 50%x3
+SET2 55%x3
+SET3 60%x3+
+
+Week3
+SET1 55%x5
+SET2 60%x3
+SET3 65%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0993,"Week1
+SET1 55%x5
+SET2 60%x5
+SET3 65%x5+
+
+Week2
+SET1 60%x3
+SET2 65%x3
+SET3 70%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5
+"
+example_0994,"Week1
+SET1 45%x5
+SET2 50%x5
+SET3 55%x5+
+
+Week2
+SET1 55%x3
+SET2 60%x3
+SET3 65%x3+
+
+Week3
+SET1 65%x5
+SET2 70%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 65%x5
+SET3 70%x5
+"
+example_0995,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 30%x5
+SET2 40%x5
+SET3 50%x5
+"
+example_0996,"Week1
+SET1 45%x5
+SET2 55%x5
+SET3 65%x5+
+
+Week2
+SET1 50%x3
+SET2 60%x3
+SET3 70%x3+
+
+Week3
+SET1 55%x5
+SET2 65%x3
+SET3 75%x1+
+
+Week4
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5
+"
+example_0997,"Week1
+SET1 60%x5
+SET2 70%x5
+SET3 80%x5+
+
+Week2
+SET1 70%x3
+SET2 80%x3
+SET3 90%x3+
+
+Week3
+SET1 80%x5
+SET2 90%x3
+SET3 100%x1+
+
+Week4
+SET1 40%x5
+SET2 50%x5
+SET3 60%x5
+"
+example_0998,"Week1
+SET1 40%x5
+SET2 45%x5
+SET3 50%x5+
+
+Week2
+SET1 45%x3
+SET2 50%x3
+SET3 55%x3+
+
+Week3
+SET1 50%x5
+SET2 55%x3
+SET3 60%x1+
+
+Week4
+SET1 50%x5
+SET2 55%x5
+SET3 60%x5
+"
+example_0999,"Week1
+SET1 55%x5
+SET2 65%x5
+SET3 75%x5+
+
+Week2
+SET1 60%x3
+SET2 70%x3
+SET3 80%x3+
+
+Week3
+SET1 65%x5
+SET2 75%x3
+SET3 85%x1+
+
+Week4
+SET1 50%x5
+SET2 60%x5
+SET3 70%x5
+"
