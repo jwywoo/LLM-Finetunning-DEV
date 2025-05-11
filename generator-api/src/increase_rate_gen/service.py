@@ -1,3 +1,5 @@
+import time
+
 from .schema import IncreaseRateGenRequestDto, IncreaseRateGenResponseDto
 
 from .method.generator import increase_rate_generator
@@ -6,6 +8,7 @@ from .method.formatter import prompt_formatter, response_parser
 
 
 def increase_rate_gen_service(request: IncreaseRateGenRequestDto):
+    start = time.time()
     formatted_prompt = prompt_formatter(
         request=request
     )
@@ -19,6 +22,8 @@ def increase_rate_gen_service(request: IncreaseRateGenRequestDto):
         max_new_tokens=280
     )
     parsed_response = response_parser(generated_response)
+    end = time.time()
+    print(f"⏱️ Inference time: {end - start:.2f} seconds")
     return IncreaseRateGenResponseDto(
         program=parsed_response['program'],
         init_weight_rate=int(parsed_response['init_weight_rate']),

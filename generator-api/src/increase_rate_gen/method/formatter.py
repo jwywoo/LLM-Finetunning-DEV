@@ -28,8 +28,6 @@ def response_parser(generated_response: str) -> dict:
         raise ValueError("Gen failed :(")
 
     json_block = match.group(1).strip()
-    print(json_block)
-
     try:
         parsed = json.loads(json_block)
         return parsed
