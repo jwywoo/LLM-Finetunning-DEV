@@ -77,7 +77,7 @@ Task1과 Task2로 나누어 Fine-tuning을 진행했습니다. 완료된 Task1�
 
 예시 입력
 
-```json
+```shell
 # Example 1
 {
   "experience": 1,
@@ -174,7 +174,7 @@ Task1과 Task2로 나누어 Fine-tuning을 진행했습니다. 완료된 Task1�
 
 그리고 아래와 같은 Task1 학습데이터를 만들었습니다.
 
-```json
+```shell
 ## 질문
 -5/3/1 프로그램
 - **운동경험**: 1
@@ -219,12 +219,12 @@ Task1의 경우 아래와 같은 결과가 나왔습니다. 로컬환경(MacBook
 ### 생성 결과
 
 | Example                                                                                                                                        | Time     | Result                          |
-|------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------|
+|---------------------------------------------------------|----------|---------------------------------|
 | { "experience": 1, "gender": "남성", "purpose": 1, "rm_weight": { "bench_press": 40, "squat": 50, "dead_lift": 55, "over_head_press": 30 } }   | 43.26sec | ![test](/static/ex1_result.png) |
 | { "experience": 2, "gender": "여성", "purpose": 3, "rm_weight": { "bench_press": 60, "squat": 70, "dead_lift": 75, "over_head_press": 40 } }   | 42.82sec | ![test](/static/ex2_result.png) |
 | { "experience": 3, "gender": "남성", "purpose": 2, "rm_weight": { "bench_press": 80, "squat": 100, "dead_lift": 105, "over_head_press": 45 } } | 44.94sec | ![test](/static/ex3_result.png) |
 
-```json
+```shell
 Example1
 {
   "program": "5/3/1 프로그램",
