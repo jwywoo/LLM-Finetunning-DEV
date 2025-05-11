@@ -16,6 +16,7 @@ class IncreaseRateGenRequestDto(BaseModel):
 
 
 class IncreaseRateGenResponseDto(BaseModel):
+    program: str
     init_weight_rate: int
     increase_rate_week: int
     increase_rate_set: int
