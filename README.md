@@ -1,16 +1,4 @@
-# BurnFit 과제 테스트 README - 정우용
-
-BurnFit 과제 테스트관련 내용이 저장된 README입니다. 아래의 순서로 진행되며 설명이 부족한 부분이 있다면 아래의 연락처로 연락주시기 바랍니다.
-
-## Table of contents
-
-- 소개: 저장소 구조, 개발 환경, 기술스텍, 사용방법
-- 개발과정: 진행과정과 기술적의사 결정
-  - BurnFit 및 5/3/1 프로그램 분석
-  - 데이터 수집
-  - Fine-tuning 과정
-- 결과: 성능 및 회고
-
+# 5/3/1 Exercise Routine Generation 
 
 ## Contributor
 
